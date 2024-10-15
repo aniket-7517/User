@@ -1,6 +1,6 @@
 const usersSrv = require("../Services/users.srv");
 
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 
 const usersCtrl = {
 
